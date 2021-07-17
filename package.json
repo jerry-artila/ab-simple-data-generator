@@ -1,7 +1,7 @@
 {
   "name": "ab-simple-data-generator",
   "version": "1.0.0",
-  "description": "A simple data generator for testing",
+  "description": "A simple data generator for test purpose",
   "main": "index.mjs",
   "scripts": {
     "test": "node test.mjs"
@@ -11,5 +11,10 @@
   "devDependencies": {
     "chai": "^4.3.4"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerry-artila/ab-simple-data-generator"
+  },
+  "homepage": "https://github.com/jerry-artila/ab-simple-data-generator"
 }
