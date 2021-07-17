@@ -1,0 +1,15 @@
+{
+  "name": "ab-simple-data-generator",
+  "version": "1.0.0",
+  "description": "A simple data generator for testing",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "author": "jerry-artila",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4"
+  },
+  "dependencies": {}
+}

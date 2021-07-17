@@ -1,0 +1,6 @@
+
+# Ignoring directories
+node_modules/
+
+# Ignoring files
+_test.mjs
